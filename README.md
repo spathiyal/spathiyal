@@ -1,4 +1,8 @@
-### Hi, I'm Shyla 👋  👩‍💻
+### Hi, I'm Shyla 👋 👩‍💻
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyla-pathiyal/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/spathiyal)
 
 
 
