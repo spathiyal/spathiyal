@@ -1,4 +1,6 @@
 ### Hi, I'm Shyla 👋  👩‍💻
+![image](https://github.com/spathiyal/spathiyal/assets/10224518/e4186099-f143-4955-9aca-1bafee9fe1ab)
+
 
 <!--
 **spathiyal/spathiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
