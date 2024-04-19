@@ -1,6 +1,4 @@
-### Hi, I'm Shyla 👋 👩‍💻
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shyla-pathiyal/)
+### Hi, I'm Shyla 👋 👩‍💻   [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/shyla-pathiyal/)
  
 
 
